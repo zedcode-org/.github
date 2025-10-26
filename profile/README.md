@@ -54,16 +54,11 @@ To empower businesses and developers by crafting high-quality, maintainable, and
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ---
 
 ## 🛠️ What We Build
 
 - 🌐 **Web Applications** - Responsive, scalable web solutions using modern frameworks
-- 📱 **Mobile Apps** - Cross-platform mobile applications
 - 🔧 **APIs & Microservices** - RESTful and GraphQL APIs with robust architecture
 - ☁️ **Cloud Solutions** - Serverless architectures and cloud-native applications
 - 🤖 **AI Integration** - Smart applications powered by machine learning
@@ -121,57 +116,3 @@ Unless otherwise specified, projects under ZedCode Organization are licensed und
 **© 2024 ZedCode Organization. All rights reserved.**
 
 </div>
-# Welcome to ZedCode 👋
-
-## About Us
-
-ZedCode is a community-driven organization focused on building innovative software solutions and fostering collaboration among developers.
-
-## Our Mission
-
-We aim to create high-quality, open-source projects that solve real-world problems while providing a platform for developers to learn, grow, and contribute to meaningful work.
-
-## What We Do
-
-- 🚀 Build open-source projects
-- 💡 Share knowledge and best practices
-- 🤝 Foster a collaborative development community
-- 🌱 Support developers at all skill levels
-
-## Get Involved
-
-We welcome contributions from developers of all experience levels! Here's how you can get involved:
-
-1. **Explore Our Projects**: Browse our repositories to find projects that interest you
-2. **Contribute**: Check out open issues labeled `good first issue` or `help wanted`
-3. **Share Ideas**: Open discussions or issues with suggestions for improvements
-4. **Spread the Word**: Star repositories you find useful and share them with others
-
-## Contributing
-
-We follow standard open-source contribution practices:
-
-- Fork the repository you want to contribute to
-- Create a feature branch (`git checkout -b feature/amazing-feature`)
-- Commit your changes (`git commit -m 'Add some amazing feature'`)
-- Push to the branch (`git push origin feature/amazing-feature`)
-- Open a Pull Request
-
-Please ensure your code follows our coding standards and includes appropriate tests.
-
-## Code of Conduct
-
-We are committed to providing a welcoming and inclusive environment for all contributors. Please be respectful and professional in all interactions.
-
-## Connect With Us
-
-- GitHub: [@zedcode-org](https://github.com/zedcode-org)
-- Issues: Feel free to open issues in our repositories for bugs, features, or questions
-
-## License
-
-Unless otherwise specified, our projects are typically licensed under the MIT License. Check individual repositories for specific license information.
-
----
-
-💙 Thank you for being part of the ZedCode community!
