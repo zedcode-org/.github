@@ -54,16 +54,11 @@ To empower businesses and developers by crafting high-quality, maintainable, and
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ---
 
 ## 🛠️ What We Build
 
 - 🌐 **Web Applications** - Responsive, scalable web solutions using modern frameworks
-- 📱 **Mobile Apps** - Cross-platform mobile applications
 - 🔧 **APIs & Microservices** - RESTful and GraphQL APIs with robust architecture
 - ☁️ **Cloud Solutions** - Serverless architectures and cloud-native applications
 - 🤖 **AI Integration** - Smart applications powered by machine learning
